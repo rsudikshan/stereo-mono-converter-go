@@ -1,4 +1,4 @@
-**Steps**
+**Steps:**
 
 **1 - Place the audio file inside this directory(must be .wav).**
 
